@@ -18,16 +18,15 @@
     <meta property="og:description"
         content="Ferramenta online para converter e minificar imagens. Suporta PNG, JPG e WEBP.">
     <meta property="og:image"
-        content="https://raw.githubusercontent.com/aeusteixeira/image-converter-minifier/refs/heads/master/img/preview.png">
-    <meta property="og:url" content="https://aeusteixeira.github.io/image-converter-minifier">
+        content="https://github.com/aeusteixeira/conversor-img/blob/master/img/preview.png?raw=true">
+    <meta property="og:url" content="https://conversor-img.matheusteixeira.com.br/">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:card" content="https://github.com/aeusteixeira/conversor-img/blob/master/img/preview.png?raw=true">
     <meta name="twitter:title" content="Conversor e Minificador de Imagens">
     <meta name="twitter:description" content="Ferramenta online para converter e minificar imagens rapidamente.">
-    <meta name="twitter:image"
-        content="https://raw.githubusercontent.com/aeusteixeira/image-converter-minifier/refs/heads/master/img/preview.png">
+    <meta name="twitter:image" 
 
     <!-- CSS Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
