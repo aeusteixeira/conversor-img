@@ -1,59 +1,41 @@
-# 🖼️ Image Converter & Minifier  
-![Badge](https://img.shields.io/badge/status-active-brightgreen.svg)  
-![GitHub](https://img.shields.io/github/license/aeusteixeira/image-converter-minifier)  
+# 🖼️ **Conversor e Minificador de Imagens**
 
-Ferramenta online para **converter e minificar imagens** de forma rápida e gratuita. Suporta os formatos **PNG, JPG e WEBP**, permitindo a conversão em lote e o download individual ou em ZIP.  
+![Preview](https://raw.githubusercontent.com/aeusteixeira/conversor-img/refs/heads/master/img/preview.png)
 
----
+Este projeto oferece uma ferramenta online para **conversão e minificação de imagens** de forma automática. Suporta os formatos **PNG**, **JPG** e **WEBP**. A ferramenta é **100% gratuita** e muito simples de usar, proporcionando uma experiência sem complicação. 🎉
 
-## 📌 **Demonstração**  
-![Preview](https://raw.githubusercontent.com/aeusteixeira/image-converter-minifier/refs/heads/master/img/preview.png)  
+## ✨ **Funcionalidades**
 
-🚀 **Acesse a ferramenta online:** [https://aeusteixeira.github.io/image-converter-minifier](https://aeusteixeira.github.io/image-converter-minifier)  
+- 🔄 **Converta imagens** entre os formatos **PNG**, **JPG** e **WEBP**.
+- 📉 **Minifique** suas imagens para reduzir o tamanho dos arquivos sem perder qualidade.
+- 📂 **Suporte a múltiplos arquivos**: converta e minifique várias imagens ao mesmo tempo.
+- 🎯 **Fácil de usar**: interface simples e intuitiva com apenas alguns cliques.
+- ⬇️ **Download único ou em massa**: baixe as imagens convertidas e minificadas uma por uma ou todas de uma vez.
 
----
+## 🛠️ **Como usar**
 
-## ✨ **Recursos**  
-✅ Conversão entre **PNG, JPG e WEBP**  
-✅ Minificação automática para reduzir o tamanho dos arquivos  
-✅ Upload de múltiplas imagens ao mesmo tempo  
-✅ Opção de download **individual ou de todas as imagens em ZIP**  
-✅ Layout moderno, responsivo e fácil de usar  
+1. 🖼️ **Escolha suas imagens**: Clique no botão "Escolha as imagens" e selecione os arquivos de imagem que deseja converter e minificar.
+2. ⚙️ **Escolha o formato final**: Selecione o formato desejado para suas imagens entre **PNG**, **JPG** e **WEBP**.
+3. 🔁 **Clique em "Converter e Minificar"**: Após selecionar as imagens e o formato, clique no botão para iniciar a conversão e minificação.
+4. 📥 **Baixe suas imagens**: Após o processamento, você pode baixar as imagens convertidas e minificadas. Se preferir, pode fazer o download de todas as imagens de uma vez.
 
----
+## 💻 **Tecnologias utilizadas**
 
-## 📥 **Instalação local**  
-Caso queira rodar o projeto localmente, siga estes passos:  
+- 🌐 **HTML/CSS/JavaScript**: Para a construção da interface e lógica de funcionamento do conversor.
+- 🐘 **PHP**: Para a inclusão de componentes do cabeçalho e rodapé da página.
+- 📱 **Bootstrap**: Para a estilização responsiva e moderna da interface.
+- 💳 **Modal para doações**: Ofereça uma forma de apoiar o projeto via PIX.
 
-```sh
-git clone https://github.com/aeusteixeira/image-converter-minifier.git
-cd image-converter-minifier
-```
-Depois, basta abrir o arquivo `index.html` no navegador!  
+## 🤝 **Como contribuir**
 
----
+Este é um projeto de código aberto! Se você tiver ideias de melhorias ou quiser corrigir algum erro, fique à vontade para **abrir uma issue** ou **fazer um pull request**.
 
-## 📌 **Como Usar?**  
-1️⃣ **Selecione** as imagens desejadas (PNG, JPG, WEBP)  
-2️⃣ **Escolha** o formato final de conversão  
-3️⃣ **Clique em "Converter e Minificar"**  
-4️⃣ **Baixe** as imagens individualmente ou todas de uma vez  
+## 💸 **Doações**
+
+Se você deseja apoiar o projeto e ajudar a mantê-lo online, pode fazer uma doação via **PIX**. Basta escanear o código QR ou utilizar a chave PIX abaixo:
+
+**Chave PIX**: `f80b5f2f-746e-467b-a4b4-7921bec5ee09` 🔑
 
 ---
 
-## 🛠 **Tecnologias Utilizadas**  
-- **HTML5**  
-- **CSS3 (Bootstrap 5)**  
-- **JavaScript (Canvas API, JSZip)**  
-
----
-
-## 🔗 **Contribuição**  
-Quer ajudar a melhorar este projeto? Sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**!  
-
----
-
-## 📝 **Licença**  
-Este projeto está sob a licença **MIT**. Você pode usá-lo e modificá-lo livremente.  
-
-📌 **Criado por [Matheus Teixeira](https://github.com/aeusteixeira)**  
+🚀 **Acesse a ferramenta online:** [https://conversor-img.matheusteixeira.com.br/](https://conversor-img.matheusteixeira.com.br/)
